@@ -24,6 +24,7 @@ export default function Footer() {
             <a
               href="https://instagram.com/aglees.id?igshid=YmMyMTA2M2Y="
               target="_blank"
+              rel="noreferrer"
             >
               <Icon icon="akar-icons:instagram-fill" />
             </a>
