@@ -41,6 +41,7 @@ export default function MyProfile() {
                   width={500}
                   height={500}
                   layout="responsive"
+                  alt="User Profile"
                 />
               </div>
               <div className="font-lato font-bold text-xl">

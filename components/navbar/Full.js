@@ -40,6 +40,7 @@ export default function Full() {
                   width={500}
                   height={500}
                   layout="responsive"
+                  alt="User Profile"
                 />
               </div>
             </Link>
@@ -84,6 +85,7 @@ export default function Full() {
                   width={500}
                   height={500}
                   layout="responsive"
+                  alt="user profile"
                 />
               </div>
             </Link>

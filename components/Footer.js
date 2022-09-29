@@ -17,6 +17,7 @@ export default function Footer() {
             <a
               href="https://api.whatsapp.com/send?phone=6285777620414"
               target="_blank"
+              rel="noreferrer"
             >
               <Icon icon="akar-icons:whatsapp-fill" />
             </a>

@@ -36,6 +36,7 @@ export default function NavCard({ icon, image, title, to }) {
             width={150}
             height={150}
             layout="responsive"
+            alt="Navigation Card"
           />
         </div>
         <div

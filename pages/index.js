@@ -30,6 +30,7 @@ export default function Home() {
                 width={311}
                 height={357}
                 layout="responsive"
+                alt="Landing Hello"
               />
             </div>
           </div>
@@ -73,6 +74,7 @@ export default function Home() {
                 layout="responsive"
                 width={278}
                 height={312}
+                alt="Landing Girl"
               />
             </div>
             <div className="flex flex-col-reverse gap-2 lg:w-1/4">
